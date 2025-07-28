@@ -21,3 +21,15 @@ class Pyramid
 		}
 	}
 }
+
+
+OUTPUT:-
+
+Enter no.of rows : 6
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+  * * * * * *
+ * * * * * * *
