@@ -23,6 +23,7 @@ class Leftpettern
 	}
 }
 
+/*
 OUTPUT:-
 	
 	      *
@@ -32,3 +33,4 @@ OUTPUT:-
       * * * * *
     * * * * * *
   * * * * * * *
+*/
