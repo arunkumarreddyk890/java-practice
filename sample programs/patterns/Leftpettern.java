@@ -24,6 +24,7 @@ class Leftpettern
 }
 
 OUTPUT:-
+	
 	      *
             * *
           * * *
