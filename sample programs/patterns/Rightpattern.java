@@ -18,3 +18,17 @@ class Rightpattern
 		}
 	}
 }
+
+/*
+OUTPUT:-
+
+Enter no.of rows : 6
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+*/
