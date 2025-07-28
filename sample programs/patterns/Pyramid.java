@@ -22,9 +22,9 @@ class Pyramid
 	}
 }
 
-
+/*
 OUTPUT:-
-
+	
 Enter no.of rows : 6
        *
       * *
@@ -33,3 +33,4 @@ Enter no.of rows : 6
    * * * * *
   * * * * * *
  * * * * * * *
+*/
