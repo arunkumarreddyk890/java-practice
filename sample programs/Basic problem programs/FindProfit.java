@@ -26,4 +26,5 @@ class Profit{
 		}
 		System.out.println("The profit is: "+profit);
 	}
+
 }
